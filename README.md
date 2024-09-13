@@ -1,7 +1,7 @@
 # Welcome to ZhoJcc's GitHub! 👋
 
 ### About Me
-Hey, I’m Joe, but you can call me Zho! I've been coding as a hobby, on and off, for about 10 years, but now I’m finally taking it seriously and working towards a career in software engineering. I'm currently majoring in Computer Science, and I’m excited to share my journey and projects here.
+Hey, I’m Joe, but you can call me Zho! I've been coding as a hobby (basic things) for a few years, but now I’m finally taking it seriously and working towards a career in software engineering. I'm currently majoring in Computer Science, and I’m excited to share my journey and projects here.
 
 ### What You'll Find Here
 This GitHub is dedicated to my school work and personal learning projects. You’ll see class assignments, projects from my Python, HTML, and CSS classes, and as I progress, more advanced projects as I explore new technologies like AI and machine learning.
